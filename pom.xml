@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>spring-cloud-demo Maven Webapp</name>
+  <name>spring-cloud-demo</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
